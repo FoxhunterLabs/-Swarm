@@ -1,0 +1,6 @@
+flask
+mavsdk
+asyncio
+sqlite3
+hashlib
+jsonschema
